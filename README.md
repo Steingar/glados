@@ -19,6 +19,8 @@
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
 
+111
+
 添加名为——值分别为：  
 **SERVE**  ——**on/off** 你想你的serve酱开不开启通知  
 **SCKEY**  ——**sckey**  开的话填你的serve酱的sckey，不开就不填   
